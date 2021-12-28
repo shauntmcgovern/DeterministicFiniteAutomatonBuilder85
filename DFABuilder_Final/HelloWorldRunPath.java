@@ -1,23 +1,21 @@
-package sample;
+package DFABuilder_Final;
 
 /**
- * Java Hello World example.
+ * It became the Run Path Example.
  */
-public class HelloWorldExample {
+public class OsAllGoodRunTimeExample {
 
     public static void main(String args[]) {
 
     /*
     Use System.out.println() to print on console.
     */
-        System.out.println("Hello World !");
+        System.out.println("Deterministic Finite Automaton Builder RunTime");
     }
 }
 
 /*
 
- OUTPUT of the above given Java Hello World Example would be :
-
- Hello World !
+ Deterministic Finite Automaton Builder Java RunTime
 
  */
