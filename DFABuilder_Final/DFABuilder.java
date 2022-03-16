@@ -349,12 +349,12 @@ public class DFABuilder extends JFrame {
               g.drawPolygon(triangle);
             }
             if (reset) {
-              g.setColor(Color.YELLOW);
+              g.setColor(Color.ORANGE);
             }
             if (list.get(i) == current)
             {
               if (passThru && !accepted) {
-                g.setColor(Color.CYAN);
+                g.setColor(Color.PINK);
               }
               if (accepted) {
                 g.setColor(Color.GREEN);
@@ -364,10 +364,10 @@ public class DFABuilder extends JFrame {
               }
             }
             else {
-             g.setColor(Color.YELLOW);
+             g.setColor(Color.ORANGE);
             }
            g.fillOval(list.get(i).getX() - State.RADIUS, list.get(i).getY() - State.RADIUS, 2 * State.RADIUS, 2 * State.RADIUS);
-           g.setColor(Color.BLACK);
+           g.setColor(Color.DARK_GRAY);
            g.drawOval(list.get(i).getX() - State.RADIUS, list.get(i).getY() - State.RADIUS, 2 * State.RADIUS, 2 * State.RADIUS);
            if (finalStates.contains(list.get(i))) {
                g.drawOval((list.get(i)).getX() - 20 + 5, (list.get(i)).getY() - 20 + 5, 30, 30);
