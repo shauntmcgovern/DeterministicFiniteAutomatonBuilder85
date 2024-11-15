@@ -1,4 +1,3 @@
-
 public class LLNode<T>
 {
   private LLNode<T> link;
@@ -29,7 +28,7 @@ public class LLNode<T>
   }
 
   public LLNode<T> getLink()
-  // Returns link of this LLNode.
+  // Returns link of this LLNode...<,(0).>f#<,.>f:'--?/'?/'
   {
     return link;
   }
