@@ -1,4 +1,4 @@
-//Available for a hubꞮꞮ(because it uses JFRAME you need to have a walkthrough in order forit' to work with Eclipse and because for example [[JGrasp]]:-; does
+//'//Available for a hubꞮꞮ(because it uses JFRAME you need to have a walkthrough in order forit' to work with Eclipse and because for example [[JGrasp]]:-; does
 //have this form of panel and A{c}tions thats how you can plug and play I'm not saying Eclipse can't do[it]' I just wanted to see if I can in fact fact setup
 //a development Environment'Environment(*809);, git cloning and adding objects, starting a new open source and any and all actions to protect the human race and 
 //implement my newly designed and factually proven and educated and selected by the business communites as the chosen technology system 
